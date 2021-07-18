@@ -1,4 +1,4 @@
 ---
-title: Demo Jekyll Tailwind CSS
+title: Jekyll x Tailwind CSS
 layout: home
 ---
